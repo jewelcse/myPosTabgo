@@ -2,33 +2,33 @@ mypos:
   api:
     url: https://www.mypos.com/vmp/checkout-test
   lang: en
-  key-index: 2
-  sid: 1025856
-  wallet-number: 40321005262
+  key-index: 1
+  sid: 000000000000010
+  wallet-number: 61938166610
   version: 1.4
   keys:
     publicKey: |
       -----BEGIN PUBLIC KEY-----
-      MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEGDCEMfmsDKEoPubWnAVaLm7l
-      K47iL5uzVXdb3IoY1FgAl779uY/F0zM8sji+gbcyC4u4KSaQ0EvXXUdFUlRo/BEU
-      juzZ+a9L9Zh3NAyvo8zmQZc17CuHGAucIrXcsX30Xq3CUdSUcT+Vm3GgvnETpVCG
-      237y9A80TRzQ7obhtQIDAQAB
+      MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDC/lU5omOMgoaDkzGU1wCBv5pP
+      sX//Zo8B8Vs8bQSWzZ3DStDiyNFV2ClthoFZJRhx0I73sNYUxZBBo5wie3+Qg524
+      MXr7cgEgxrLfdmusXAHnRGnT9JxV4VM/nGGCICHIHw3F92VnjRBeZLHKsudpKQ9j
+      u5xTQlfvOb0uHbiQTQIDAQAB
       -----END PUBLIC KEY-----
     privateKey: |
       -----BEGIN PRIVATE KEY-----
-      MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAMoUNocNYl/b5M4X
-      Ft7euaQEdBOCMq25CggQpNv0h8UboNhyoucz0HGgSMeBqdlSYxkWqx560LWu4SFS
-      ehVSf4w0HJlEgyMIXIkQ8UY5NZ8XMHfGIBaDI1715BBtjrjnuedp76YAi5IEabRF
-      9s0EoWSCLen5mGg1vieKJWxvEQqBAgMBAAECgYBTdMmYOQTZxfzWyF5fqOhOPrCZ
-      pfm8GWF1Nzp+xJyV4PUqrx1sEtARPTsRehFleUsH/36oVdyATDsaAe/9gla+GkUW
-      c4PBzI5gKZQppoo78NSx9o7XGMaCL+X9CzKtuN3lY/RsVXcf0dWElJQzBhAEHOgV
-      Ta5YvbzNR7XWw9GQ4QJBAPH00gvfkuORReIhMNiRyCfdRvWb4czGtCiQ+iixJUXg
-      WVyJ6TzGAsz7LApez1yodD5uJCoByM/uiTfjGQVCacUCQQDVztzgDMjL3WWS6sNs
-      cfOfF9dm+PG7XBcw5oivXorNayxi/1HKrnMxGdaMDt4GYD24Sw32JNp+JGmYd6XH
-      qzWNAkAQXcALf47/B6eTeS1FqO7CC4yuNmIaqOIs0EmrkPf1dwx0XvvA2Z/834yG
-      Ew2xtc9PHcIieUZtEjSD7D+YBHsFAkAuYNj4oM1Nq5DE9be+Zll6QSmwZH/LLIa7
-      TMaJg/CH7p+KOef8FytVk00+xFrU9ztsJpu4sPXUNwHQ2ONVFIZhAkEAvvP7hv9z
-      HH9Eb19fsssKe+0F2ZfSSS8g7FzDhSxvonF5v42pXsAwLuIhgRBHtUS3z8zZ4tam
-      4x1voxcjoTILug==
+      MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAJ/RN1xO6mFvtf5n
+      B6S3VcoRZkNzNIZ5x+jq9B+q+tp/lU/NycnYxzknvYcGbS73wQkdqf6eV7ZY5kxU
+      Yi1Nr/aTUVFbBu3uJDl3MOHk8R5kBKDZRZ6GhHwvwyk0GofqHtkhPBVN9FLguwG+
+      UR9Ps/OGblgkp8z4J3MMz4v1ZUQbAgMBAAECgYBh8rHBS0Rury6VWsPeedaEX6GT
+      WTop6N1SrR0tg3b3DxaNsIwpv0hqiSapaJDmJkYStjGHsbgEM/wBb/4z0dcziiqb
+      lISRrGFtOWCSz4TWz11Ol0VC8vvpO+h2pLKXYTYGCFWAsuCR2FGf1u5oXNi1r3kk
+      p+DIoaic3GxADf0/AQJBAMpsbQqnooSQ2AGysKrcLHah3k5+I8MbyDdFhkrH8710
+      zLkIzXrQPC6xUmm7LBulGFxaveCTPRCBEx0hFXDLE1sCQQDKHeyKmZyA3tIPzEEb
+      8y0Fg+pY/W/GFJVg98nO49TeBLkxEnNAcHOxUIuFMFjuEdKiqKqWpZhqyLzUnMET
+      AS5BAkEArD2oZxmPIwfwlTlMNIaWWvePJvEUUw+PxOAmzfjoAHyjOosv9OG9Y+nE
+      e20lsfxAB027JZ2Dp0h9UBr3mHtj4wJARmCNEOXUHPt5YY7ZzQWr05PPchUtameY
+      bB9b4fJrGLPEWFX4U6PUZRWKv2HKVXtXQNRCMhqPK/+h4NaEVD3BAQJALJ2Eno1o
+      1A4JmH7pBOsfdMLkx4EDVh6Kmh7v4GGws2twUbyz2xPFGeW1xmXV1doFJ6a+k28G
+      LOfQrOLwbdkCBw==
       -----END PRIVATE KEY-----
 
